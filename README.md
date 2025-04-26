@@ -28,7 +28,7 @@ Built with Flutter for the frontend and Flask with Groq's LLaMA 3 API for the ba
 ### 1. Prerequisites
 
 - Install Flutter:  
-  [Flutter Setup Instructions Here]()
+    [Flutter Setup Instructions Here](https://docs.flutter.dev/get-started/install)
 
 - Install Python 3.7 or later.
 - Install required Python packages:
