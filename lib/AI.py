@@ -1,5 +1,3 @@
-#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
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from groq import Groq
@@ -7,7 +5,7 @@ from groq import Groq
 app = Flask(__name__)
 CORS(app)
 
-client = Groq(api_key="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")
+client = Groq(api_key="INSERT YOUR GROQ API KEY HERE")
 
 
 @app.route("/submit_answer", methods=["POST"])
