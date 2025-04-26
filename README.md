@@ -38,16 +38,26 @@ Built with Flutter for the frontend and Flask with Groq's LLaMA 3 API for the ba
 ## Running the App
 
 ### 1. Clone the Repository
-
-```bash
+```
 git clone https://github.com/your-username/interview-coach-bot.git
 cd interview-coach-bot
+```
 ### 2. Start the Flask Backend Server
 
 Before starting the Flutter app, you must have the backend server running.
 
-From the backend directory, run:
+From the cloned directory, run:
 
 ```bash
 python .\lib\AI.py
+```
+This will start the flask server locally
+
+### 3. Run the Flutter Application
+
+In your cloned directory run the following:
+```bash
+flutter pub get
+flutter ruun
+```
 
