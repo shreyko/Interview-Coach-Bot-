@@ -58,6 +58,6 @@ This will start the flask server locally
 In your cloned directory run the following:
 ```bash
 flutter pub get
-flutter ruun
+flutter run
 ```
 
