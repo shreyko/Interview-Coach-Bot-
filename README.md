@@ -39,7 +39,7 @@ Built with Flutter for the frontend and Flask with Groq's LLaMA 3 API for the ba
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/interview-coach-bot.git
+git clone https://github.com/your-username/interview-coach-bot.git](https://github.com/shreyko/Interview-Coach-Bot-.git
 cd interview-coach-bot
 ```
 ### 2. Start the Flask Backend Server
